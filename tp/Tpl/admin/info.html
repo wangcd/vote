@@ -1,0 +1,15 @@
+<h1>投票标题详细信息</h1>
+<h2>投票标题：{$t.t_name}</h2>
+<form method="post" action="{:U('Index/vote')}"><!-- __URL__/vote -->
+	<table>
+		<foreach name='o' item='option'>
+		<tr>
+			<td>{$option.o_name}</td>
+			<td>{$option.o_count}票</td>
+			<td><input type="button" value="删除" onclick="window.location='__URL__/delete/{$option.o_id}'"></td>
+		</tr>
+		</foreach>
+	</table>
+	<input type="button" value="返回" onclick="window.location='__URL__/index'">
+	<input type="button" value="添加" onclick="window.location='__URL__/add_option/{$t.t_id}'">
+</form>
