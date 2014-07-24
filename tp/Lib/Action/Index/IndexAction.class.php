@@ -1,11 +1,12 @@
 <?php
-// 本类由系统自动生成，仅供测试用途
 class IndexAction extends Action {
     public function index(){
     	$title=D('Title');
 		$this->t=$title->title();
 		$option=D('Option');
 		$this->o=$option->option($this->t['t_id']);
+		$b=$option->soption($this->t['t_id']);
+		$this->flag=$b;
 		$this->display();
     }
     public function vote(){

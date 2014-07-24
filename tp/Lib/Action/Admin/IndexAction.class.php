@@ -48,7 +48,23 @@ class IndexAction extends Action{
 		if($flag==false){ $this->error();}
     	else{ $this->success();}
     }
-    function add_option(){}
+    function add_option(){
+    	$date["t_id"]=$_POST["t_id"];
+    	$date["o_name"]=$_POST["o_name"];
+    	$option=M('option');
+    	if($option->add($date)==false){
+    		$this->error("添加失败！");
+    	}else{ $this->success("添加成功！");}
+    }
     function add_title(){}
+    function update_t(){
+    	$t_id=$this->_param(3);
+    	$t_name=$_POST["t_name"];
+    	$title=M('title');
+    	$aa=$title->where("t_id=$t_id")->setField("t_name","$t_name");
+    	if($aa==false){
+    		$this->error();
+    	}else{ $this->success();}
+    }
 }
 ?>
