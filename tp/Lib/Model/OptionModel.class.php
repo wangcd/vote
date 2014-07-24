@@ -1,6 +1,6 @@
 <?php
 
-class OptionModel {
+class OptionModel extends Model{
 
     function option($id) {
     	$option=M('option');
