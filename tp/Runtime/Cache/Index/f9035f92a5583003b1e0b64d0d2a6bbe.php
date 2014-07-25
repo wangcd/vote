@@ -26,7 +26,7 @@ $(function(){
 		<tr><th colspan="3" bgcolor="#FFFFCC" align="center"><?php echo ($t["t_name"]); ?></th></tr>
 		<?php if(is_array($o)): foreach($o as $key=>$option): ?><tr><td><input type="radio" name="radio" value="<?php echo ($option["o_id"]); ?>"><?php echo ($option["o_name"]); ?></td></tr><?php endforeach; endif; ?>
 		<tr>
-			<td align="center"><input type="submit" value="投票"><input type="button" class="show_two" value="查看结果"></td>
+			<td align="center"><input type="submit" class="submit" value="投票"><input type="button" class="show_two" value="查看结果"></td>
 		</tr>
 	</table>
 </form>

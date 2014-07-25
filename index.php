@@ -7,7 +7,9 @@ define('APP_PATH', './tp/');
 
 define('APP_DEBUG',True);
 
-define('PUBLIC_PATH', './Public/');
+define('SESSION_PATH', './session/');
+
+define('PUBLIC_PATH', './public/');
 
 require './ThinkPHP/ThinkPHP.php';
 ?>

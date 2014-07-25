@@ -1,5 +1,10 @@
 <?php
 class IndexAction extends Action{
+	protected function _initialize(){
+//		if(!session('?uname')){
+//			$this->error('非法操作！',U('Index/index'));
+//		}
+	}
 	function index(){
 		$this->display();
 	}
@@ -11,11 +16,19 @@ class IndexAction extends Action{
 		}
 		$arr=array();
 		$arr["uname"]=$_POST['uname'];
-		$arr["upwd"]=md5($_POST['upwd']);
 		$user=M('user');
 		$res=$user->where($arr)->find();
-		if($res==false){ $this->error('登陆验证失败！');}
-		else{ $this->success('登陆验证成功！',U('Index/main'));}
+		if($res==false){ $this->error('用户不存在！');}
+		else if($res["state"]!=1){ $this->error('用户状态异常！');}
+		else if($res["upwd"]!=md5($_POST["upwd"])){ $this->error('密码输入错误！');}
+		else{
+			$_SESSION['uname']	=	$res['uname'];
+			$this->success('登陆验证成功！',U('Index/main'));
+		}
+	}
+	function loginout(){
+		session_destroy();
+		$this->success('退出管理成功！', U('Index/index'));
 	}
     function main() {
     	$titie=D('Title');

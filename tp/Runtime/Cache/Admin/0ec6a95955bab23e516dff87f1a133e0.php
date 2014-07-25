@@ -17,6 +17,7 @@ td{ background:#FFF; }
 		<td><a href="__URL__/info/<?php echo ($title["t_id"]); ?>"><?php echo ($title["t_name"]); ?></a></td>
 		<td><input type="button" value="置顶" onclick="window.location='__URL__/top/<?php echo ($title["t_id"]); ?>'"></td>
 	</tr><?php endforeach; endif; ?>
+	<tr><td colspan="2"><span>管理者：<?php echo (session('uname')); ?></span><a href="<?php echo U('Index/loginout');?>" style="float:right">退出管理</a></td></tr>
 </table>
 </body>
 </html>

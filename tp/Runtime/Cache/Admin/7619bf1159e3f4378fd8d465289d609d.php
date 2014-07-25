@@ -29,7 +29,7 @@ $(function(){
 		<td><input type="button" value="删除" onclick="window.location='__URL__/delete/<?php echo ($option["o_id"]); ?>'"><input type="button" class="edit" value="修改"></td>
 	</tr><?php endforeach; endif; ?>
 	<tr><form method="post" action="__URL__/add_option"><td colspan="5" align="center"><input type="text" name="o_name"><input type="hidden" name="t_id" value="<?php echo ($t["t_id"]); ?>"><input type="submit" value="添加选项"></td></form></tr>
-	<tr><td colspan="4"><input type="button" value="退出管理"><a href="__URL__/main">返回</a></td></tr>
+	<tr><td colspan="4"><span>管理者：<?php echo (session('uname')); ?></span><a href="<?php echo U('Index/loginout');?>" style="float:right">退出管理</a><a href="__URL__/main">返回</a></td></tr>
 </table>
 <table id="edit" border="0" align="center" cellpadding="5" cellspacing="1" bgcolor="#C2C2C2">
 	<tr><td>标题</td><td><input type="text"></td></tr>
