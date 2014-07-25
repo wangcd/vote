@@ -355,3 +355,759 @@ ERR: 非法操作:style.css
 [ 2014-07-25T11:30:27+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index/style.css
 ERR: 非法操作:style.css
 
+[ 2014-07-25T11:37:58+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:38:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:38:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:38:02+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:38:02+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:39:27+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index/com
+ERR: 非法操作:com
+
+[ 2014-07-25T11:39:32+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index/com
+ERR: 非法操作:com
+
+[ 2014-07-25T11:40:00+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index/com
+ERR: 非法操作:com
+
+[ 2014-07-25T11:40:00+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index/com
+ERR: 非法操作:com
+
+[ 2014-07-25T11:40:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index/com
+ERR: 非法操作:com
+
+[ 2014-07-25T11:40:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index/com
+ERR: 非法操作:com
+
+[ 2014-07-25T11:40:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index/com
+ERR: 非法操作:com
+
+[ 2014-07-25T11:46:16+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index/com
+ERR: 非法操作:com
+
+[ 2014-07-25T11:46:16+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index/com
+ERR: 非法操作:com
+
+[ 2014-07-25T11:46:17+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index/com
+ERR: 非法操作:com
+
+[ 2014-07-25T11:46:17+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index/com
+ERR: 非法操作:com
+
+[ 2014-07-25T11:46:20+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:23+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:23+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:23+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:23+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:25+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:25+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:25+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:25+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:25+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:25+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:25+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:25+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:25+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:25+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:28+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:31+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:31+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:31+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:46:32+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:47:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:47:22+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:47:22+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:47:22+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:47:22+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:47:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:47:33+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:47:34+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:47:34+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:47:36+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:00+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:00+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:02+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:14+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:15+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:15+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:15+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:20+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:22+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:35+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:35+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:48:35+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:50+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:50+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:49:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T11:50:08+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/com/login
+ERR: 无法加载模块:com
+
+[ 2014-07-25T11:50:19+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Com/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T14:40:23+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T14:42:09+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T14:42:10+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T14:42:10+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T14:43:59+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T14:43:59+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T14:43:59+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T14:43:59+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T14:43:59+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T14:43:59+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T14:43:59+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T14:43:59+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T14:44:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin
+ERR: 模板不存在[./tp/Tpl/admin/Index/index.html]
+
+[ 2014-07-25T14:49:17+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/common/login
+ERR: 无法加载模块:common
+
+[ 2014-07-25T14:49:22+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Common/login
+ERR: 模板不存在[./tp/Tpl/admin/Common/login.html]
+
+[ 2014-07-25T14:49:46+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Common/login
+ERR: 模板不存在[./tp/Tpl/admin/Common/login.html]
+
+[ 2014-07-25T14:49:46+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Common/login
+ERR: 模板不存在[./tp/Tpl/admin/Common/login.html]
+
+[ 2014-07-25T14:49:46+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Common/login
+ERR: 模板不存在[./tp/Tpl/admin/Common/login.html]
+
+[ 2014-07-25T14:49:55+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Common/login
+ERR: 模板不存在[./tp/Tpl/Admin/Common/login.html]
+
+[ 2014-07-25T14:50:14+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Common/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T14:55:11+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/style.css
+ERR: 无法加载模块:style.css
+
+[ 2014-07-25T14:55:38+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/style.css
+ERR: 无法加载模块:style.css
+
+[ 2014-07-25T14:55:38+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/style.css
+ERR: 无法加载模块:style.css
+
+[ 2014-07-25T14:55:56+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/checklogin
+ERR: 非法操作:checklogin
+
+[ 2014-07-25T14:56:39+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/style.css
+ERR: 无法加载模块:style.css
+
+[ 2014-07-25T14:56:43+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/vote/checklogin.html
+ERR: 无法加载模块:vote
+
+[ 2014-07-25T14:57:14+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/vote/checklogin.html
+ERR: 无法加载模块:vote
+
+[ 2014-07-25T14:57:16+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/style.css
+ERR: 无法加载模块:style.css
+
+[ 2014-07-25T14:58:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/style.css
+ERR: 无法加载模块:style.css
+
+[ 2014-07-25T14:58:26+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T14:59:48+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:00:35+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:00:47+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:01:13+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:01:18+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:01:41+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/1
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:01:42+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/style.css
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:01:53+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/2
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:01:53+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/style.css
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:02:06+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:02:11+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:02:17+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/top/1
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:02:18+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:02:35+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/top/2
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:02:36+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:02:42+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Index/Index/vote.html
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-07-25T15:02:50+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Index/Index/vote.html
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-07-25T15:03:07+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/1
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:03:07+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/style.css
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:03:11+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/update_t/1
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:03:12+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/1
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:03:13+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/style.css
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:03:15+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/update_t/1
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:03:17+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/1
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:03:17+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/style.css
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:03:27+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/1
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:03:28+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/style.css
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:03:30+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:03:33+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/1
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:03:33+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/style.css
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:03:39+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/delete/21
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:03:40+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/1
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:03:40+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/style.css
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:04:27+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/1
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:04:27+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/style.css
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:04:31+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:04:47+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:04:50+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/1
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:04:50+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/style.css
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:05:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:05:32+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:05:35+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:05:51+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:08:16+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:08:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/vote
+ERR: 无法加载模块:vote
+
+[ 2014-07-25T15:08:33+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:14:31+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:14:32+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:14:33+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:14:33+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:14:33+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:14:33+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:14:35+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:14:35+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:14:35+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:14:55+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:14:56+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Index/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:15:05+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Index/Index/vote.html
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-07-25T15:15:06+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Index/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:15:14+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Index/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:16:49+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/AQdmin/Index/index.html
+ERR: 无法加载模块:AQdmin
+
+[ 2014-07-25T15:16:55+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:17:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:17:03+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/1
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:17:03+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/style.css
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:17:06+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:17:07+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/3
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:17:07+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/style.css
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:17:11+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/3
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:17:11+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/style.css
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:17:28+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:17:58+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/top/3
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-25T15:17:59+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:18:01+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-25T15:18:03+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Index/Index/style.css
+ERR: 非法操作:style.css
+
