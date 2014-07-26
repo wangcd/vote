@@ -1111,3 +1111,6 @@ ERR: 非法操作:style.css
 [ 2014-07-25T15:18:03+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Index/Index/style.css
 ERR: 非法操作:style.css
 
+[ 2014-07-25T17:57:11+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/style.css
+ERR: 无法加载模块:style.css
+

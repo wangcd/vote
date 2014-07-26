@@ -18,15 +18,25 @@ $(function(){
 		$(".two").css("display","none");
 	});
 })
+//验证选中
+function check()
+{
+	node=form.radio;
+	flag=false;
+	for(i=0;i<node.length;i++)
+	{	if(node[i].checked){	flag=true;	}}
+	if(!flag){	alert("您为选择任何选项！");	return false;}
+	$("form").submit();
+}
 </script>
 </head>
 <body>
-<form method="post" action="<?php echo U('Index/Index/vote');?>"><!-- __URL__/vote -->
+<form method="post" action="<?php echo U('Index/Index/vote');?>" name="form"><!-- __URL__/vote -->
 	<table width="365" border="0" align="center" cellpadding="5" cellspacing="1" bgcolor="#C2C2C2">
 		<tr><th colspan="3" bgcolor="#FFFFCC" align="center"><?php echo ($t["t_name"]); ?></th></tr>
 		<?php if(is_array($o)): foreach($o as $key=>$option): ?><tr><td><input type="radio" name="radio" value="<?php echo ($option["o_id"]); ?>"><?php echo ($option["o_name"]); ?></td></tr><?php endforeach; endif; ?>
 		<tr>
-			<td align="center"><input type="submit" class="submit" value="投票"><input type="button" class="show_two" value="查看结果"></td>
+			<td align="center"><input type="button" onclick="check()" class="submit" value="投票"><input type="button" class="show_two" value="查看结果"></td>
 		</tr>
 	</table>
 </form>
