@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50524
 File Encoding         : 65001
 
-Date: 2014-07-25 17:44:04
+Date: 2014-07-26 17:42:21
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -25,7 +25,7 @@ CREATE TABLE `tp_option` (
   `o_count` int(11) DEFAULT '1',
   `o_state` char(2) DEFAULT '1',
   PRIMARY KEY (`o_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=29 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=32 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 -- Records of tp_option
@@ -37,7 +37,7 @@ INSERT INTO `tp_option` VALUES ('4', '1', '重庆', '8', '1');
 INSERT INTO `tp_option` VALUES ('5', '2', '吃米', '3', '1');
 INSERT INTO `tp_option` VALUES ('6', '2', '吃面', '6', '1');
 INSERT INTO `tp_option` VALUES ('7', '3', '会', '1', '1');
-INSERT INTO `tp_option` VALUES ('8', '3', '不会', '2', '1');
+INSERT INTO `tp_option` VALUES ('8', '3', '不会', '3', '1');
 INSERT INTO `tp_option` VALUES ('9', '1', 'adfasdfa', '1', '0');
 INSERT INTO `tp_option` VALUES ('10', '1', 'adfasdfasdfasdf', '1', '0');
 INSERT INTO `tp_option` VALUES ('11', '1', 'werqwebqegqr', '1', '0');
@@ -57,7 +57,10 @@ INSERT INTO `tp_option` VALUES ('24', '2', '喝汤', '1', '1');
 INSERT INTO `tp_option` VALUES ('25', '1', '', '1', '0');
 INSERT INTO `tp_option` VALUES ('26', '1', '', '1', '0');
 INSERT INTO `tp_option` VALUES ('27', '1', '北京', '1', '1');
-INSERT INTO `tp_option` VALUES ('28', '3', '1254', '1', '1');
+INSERT INTO `tp_option` VALUES ('28', '3', '1254', '4', '0');
+INSERT INTO `tp_option` VALUES ('29', '3', '有可能333333', '13334', '1');
+INSERT INTO `tp_option` VALUES ('30', '3', '有很大的可能1111', '1111112', '1');
+INSERT INTO `tp_option` VALUES ('31', '3', '根本就不会下雨2222', '21474837', '1');
 
 -- ----------------------------
 -- Table structure for `tp_title`
@@ -75,7 +78,7 @@ CREATE TABLE `tp_title` (
 -- ----------------------------
 INSERT INTO `tp_title` VALUES ('1', '哪里的夏天最凉快111？', '0');
 INSERT INTO `tp_title` VALUES ('2', '今天晚上吃什么饭饭?', '0');
-INSERT INTO `tp_title` VALUES ('3', '明天会不会下雨?', '1');
+INSERT INTO `tp_title` VALUES ('3', '明天会不会下雨1?', '1');
 
 -- ----------------------------
 -- Table structure for `tp_user`

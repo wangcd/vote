@@ -580,3 +580,75 @@ NOTIC: 建议使用I方法替代_param
 [ 2014-07-26T11:41:37+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/style.css
 NOTIC: 建议使用I方法替代_param
 
+[ 2014-07-26T11:58:34+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/1
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-26T11:58:34+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/style.css
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-26T11:58:39+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/1
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-26T11:58:39+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Admin/Vote/info/style.css
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-26T14:03:06+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Index/Index/vote.html
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-07-26T14:03:11+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Index/Index/vote.html
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-07-26T14:03:18+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Index/Index/vote.html
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-07-26T14:03:21+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Index/Index/vote.html
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-07-26T14:03:24+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Index/Index/vote.html
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-07-26T14:03:46+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/style.css
+ERR: 无法加载模块:style.css
+
+[ 2014-07-26T14:03:52+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Vote/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-26T14:03:58+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Vote/info/3
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-26T14:03:58+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Vote/info/style.css
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-26T14:04:10+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Vote/info/3
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-26T14:04:10+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Vote/info/style.css
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-26T14:04:15+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/Index/Index/vote.html
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-07-26T14:07:26+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-26T14:07:30+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Vote/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-26T14:54:35+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Vote/info/3
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-26T14:54:36+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Vote/info/style.css
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-26T14:57:53+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Vote/update_t/3
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-26T14:58:17+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Vote/style.css
+ERR: 非法操作:style.css
+
+[ 2014-07-26T14:58:19+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Vote/info/3
+NOTIC: 建议使用I方法替代_param
+
+[ 2014-07-26T14:58:19+08:00 ] 127.0.0.1 /thinkphp/vote/index.php/admin/Vote/info/style.css
+NOTIC: 建议使用I方法替代_param
+
